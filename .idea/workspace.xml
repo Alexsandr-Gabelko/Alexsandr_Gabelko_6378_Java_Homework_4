@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f00ea2f4-d4f9-4cf2-a67c-88785a35f3c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/University.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlowOfStudyGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlowOfStudyGroupsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlowService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGroupServise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeacherView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mO9qCpR01gZg3oKNCXUADvbSZa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Boss/Desktop/JAVA_ООП/Семинары/Урок 4. ООП Обобщения. ч1/OSeminar_4-master/OSeminar_4-master",
+    "onboarding.tips.debug.path": "C:/Users/Boss/Desktop/JAVA_ООП/Семинары/Урок 4. ООП Обобщения. ч1/Homework_4/University/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f00ea2f4-d4f9-4cf2-a67c-88785a35f3c3" name="Changes" comment="" />
+      <created>1726936946596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726936946596</updated>
+    </task>
+    <servers />
+  </component>
+</project>
